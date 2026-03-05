@@ -16,7 +16,7 @@ $(call inherit-product, vendor/omni/config/common.mk)
 $(call inherit-product, device/motorola/cancunn/device.mk)
 
 PRODUCT_DEVICE := cancunn
-PRODUCT_NAME := omni_cancunn
+PRODUCT_NAME := twrp_cancunn
 PRODUCT_BRAND := motorola
 PRODUCT_MODEL := moto g(50) 5G
 PRODUCT_MANUFACTURER := motorola
